@@ -1,0 +1,6 @@
+spring:
+  thymeleaf:
+    cache: false
+    mode: DEBUG
+  messages:
+    basename: i18n.login
